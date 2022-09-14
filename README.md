@@ -11,6 +11,7 @@ Encoder-Decoder models for sequence-to-sequence transformation jobs like - trans
 ## Results
 
 ![Loss history](https://user-images.githubusercontent.com/31654395/190199136-1bc4fbe2-d388-40f2-820f-8d03728db967.png)
+
 (*Training the model on Random data generated which mimicks encoding of a natural language.*)
 
 ## References
